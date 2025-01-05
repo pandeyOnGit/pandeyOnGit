@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandeyongit&label=Profile%20views&color=0e75b6&style=flat" alt="pandeyongit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandeyongit" alt="pandeyongit" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/_onetruegod" target="blank"><img src="https://img.shields.io/twitter/follow/_onetruegod?logo=twitter&style=for-the-badge" alt="_onetruegod" /></a> </p>
 
 - 🔭 I’m currently working on [Smart Inventory Management System](Available Soon)
