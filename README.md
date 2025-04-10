@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pandeyOnGit](https://github.com/pandeyOnGit)
 
-- 💬 Ask me about **React , Java , Jsp and Servlet**
+- 💬 Ask me about **Reactjs, Nextjs, Java, Jsp and Servlet**
 
 - 📫 How to reach me **adityapandey4254@gmail.com**
 
